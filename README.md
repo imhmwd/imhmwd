@@ -1,7 +1,7 @@
-Hi 👋 My name is Mohammad jahangiri
+Hi 👋 I'm Mohammad Jahangiri
 ===================================
 
-Backend-Developer
+Back-end Developer
 -----------------
 
 * 🌍  I'm based in Esfahan,iran
